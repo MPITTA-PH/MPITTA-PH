@@ -12,6 +12,7 @@ More about me here ⬇️
 [Instagram](https://www.instagram.com/miguel_henriquess/?next=%2F)
 
 ### 📊 GitHub Stats & 💻 Top Languages:
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MPITTA-PH&show_icons=true&count_private=true&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MPITTA-PH&count_private=true&layout=compact) |
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MPITTA-PH&show_icons=true&count_private=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPITTA-PH&count_private=true&layout=compact" width="48%" />
+</p>
