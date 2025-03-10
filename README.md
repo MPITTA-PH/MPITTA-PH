@@ -13,6 +13,6 @@ More about me here ⬇️
 
 ### 📊 GitHub Stats & 💻 Top Languages:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MPITTA-PH&show_icons=true&count_private=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPITTA-PH&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MPITTA-PH&show_icons=true&count_private=true&hide_title=true" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPITTA-PH&count_private=true&layout=compact" width="48%" height="200" />
 </p>
