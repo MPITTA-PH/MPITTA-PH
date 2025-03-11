@@ -1,5 +1,5 @@
 <p align="center">
-  <b><span style="font-size: 100px;">Hello</span></b>
+  <b><span style="font-size: 700x;">Hello</span></b>
 </p>
 
 🙋🏽 my name is Miguel!
