@@ -1,11 +1,15 @@
-🙋🏽 Hello, my name is Miguel,
+<p align="center">
+  <b><span style="font-size: 24px;">Hello</span></b>
+</p>
+
+🙋🏽 my name is Miguel!
 
 
-🧑🏽 I'm a young software engineering student at 42Porto in Portugal.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏽 I'm a young software engineering student at 42Porto in Portugal.
 
-🌊 I organize my time so that I can study and sail (working as a skipper) while maintaining focus on both areas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌊 I organize my time so that I can study and sail (working as a skipper) while maintaining focus on both areas.
 
-🔍 I am studying to develop and improve my skills as a programmer and soon work with this 'new' passion.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 I am studying to develop and improve my skills as a programmer and soon work with this 'new' passion.
 
 ### 💻&nbsp;&nbsp;More about me&nbsp;&nbsp;⬇️
 <p align="left">
