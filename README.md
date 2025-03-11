@@ -7,7 +7,7 @@
 
 🔍 I am studying to develop and improve my skills as a programmer and soon work with this 'new' passion.
 
-### 💻 More about me⬇️
+### 💻 More about me&nbsp;&nbsp;⬇️
 <p align="left">
   <a href="https://www.linkedin.com/in/mpitta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=white" />
