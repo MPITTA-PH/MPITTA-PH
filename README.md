@@ -1,5 +1,5 @@
 <p align="center">
-  <b><span style="font-size: 100px;">Hello</span></b>
+ <b><span style="font-size: 48px;">Texto em Negrito e 4x Maior</span></b>
 </p>
 
 🙋🏽 my name is Miguel!
