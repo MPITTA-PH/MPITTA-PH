@@ -8,8 +8,15 @@
 🔍 I am studying to develop and improve my skills as a programmer and soon work with this 'new' passion.
 
 More about me here ⬇️
-[Linkdin](https://www.linkedin.com/in/miguel-pitta-pereira-henriques-bb4818286/)
-[Instagram](https://www.instagram.com/miguel_henriquess/?next=%2F)
+### 🧑‍💻 More about me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; background-color: white; border: 2px solid #0077b5; border-radius: 5px; text-decoration: none; color: #0077b5; font-weight: bold;">
+    LinkedIn
+  </a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; background-color: white; border: 2px solid #e1306c; border-radius: 5px; text-decoration: none; color: #e1306c; font-weight: bold;">
+    Instagram
+  </a>
+</p>
 
 ### 📊 GitHub Stats <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 💻 Top Languages:
 <p align="center">
