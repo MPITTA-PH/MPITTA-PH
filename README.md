@@ -10,11 +10,11 @@
 More about me here ⬇️
 ### 🧑‍💻 More about me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; background-color: white; border: 2px solid #0077b5; border-radius: 5px; text-decoration: none; color: #0077b5; font-weight: bold;">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/mpitta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank" style="display: inline-block; margin: 10px; padding: 10px; background-color: white; border: 2px solid #e1306c; border-radius: 5px; text-decoration: none; color: #e1306c; font-weight: bold;">
-    Instagram
+  <a href="https://www.instagram.com/mpitta_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
