@@ -1,6 +1,4 @@
-<p align="center">
-  <b><span style="font-size: 96px;">Texto em Negrito e 4x Maior</span></b>
-</p>
+# **Texto em Negrito e Grande**
 
 
 🙋🏽 my name is Miguel!
