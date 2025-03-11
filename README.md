@@ -10,10 +10,12 @@
 ### 💻 More about me⬇️
 <p align="left">
   <a href="https://www.linkedin.com/in/mpitta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077b5" style="border-radius: 10px; margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077b5" 
+         style="border-radius: 15px; padding: 10px; border: 1px solid #0077b5;"/>
   </a>
   <a href="https://www.instagram.com/mpitta_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=0077b5" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=0077b5"
+         style="border-radius: 15px; padding: 10px; border: 1px solid #0077b5;"/>
   </a>
 </p>
 
