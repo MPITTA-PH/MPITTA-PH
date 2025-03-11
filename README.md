@@ -5,9 +5,9 @@
 😄 my name is Miguel!
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏽 I'm a young software engineering student at 42Porto in Portugal.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏽 I'm a young software **engineering** student at **42Porto** in Portugal.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌊 I organize my time so that I can study and sail (working as a skipper) while maintaining focus on both areas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌊 I organize my time so that I can study and sail **(working as a skipper)** while maintaining focus on both areas.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 I am studying to develop and improve my skills as a programmer and soon work with this 'new' passion.
 
