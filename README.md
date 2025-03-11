@@ -1,7 +1,6 @@
 <p align="center">
-  # **Hello 🙋🏽**
+  <b><span style="font-size: 36px;"># Texto em Negrito e Grande</span></b>
 </p>
-
 
 😄 my name is Miguel!
 
