@@ -7,14 +7,13 @@
 
 🔍 I am studying to develop and improve my skills as a programmer and soon work with this 'new' passion.
 
-More about me here ⬇️
-### 🧑‍💻 More about me:
+### 💻 More about me⬇️
 <p align="left">
   <a href="https://www.linkedin.com/in/mpitta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=0077b5&color=white" />
   </a>
   <a href="https://www.instagram.com/mpitta_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-0077b5?style=flat&logo=instagram&logoColor=0077b5&color=white" />
   </a>
 </p>
 
