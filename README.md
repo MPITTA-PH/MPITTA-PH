@@ -13,10 +13,10 @@
 
 ### 💻&nbsp;&nbsp;More about me&nbsp;&nbsp;⬇️
 <p align="left">
-  <a href="https://www.linkedin.com/in/mpitta" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-pitta-pereira-henriques-bb4818286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=white" />
   </a>
-  <a href="https://www.instagram.com/mpitta_" target="_blank">
+  <a href="https://www.instagram.com/miguel_henriquess" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0077b5?style=for-the-badge&logo=instagram&logoColor=0077b5&color=white" />
   </a>
 </p>
