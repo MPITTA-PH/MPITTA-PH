@@ -9,8 +9,12 @@
 
 ### 💻 More about me⬇️
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MPITTA-PH&show_icons=true&count_private=true&hide_title=true" width="48%" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPITTA-PH&count_private=true&layout=compact" width="48%" height="150" />
+  <a href="https://www.linkedin.com/in/mpitta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077b5" />
+  </a>
+  <a href="https://www.instagram.com/mpitta_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=0077b5" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 💻 Top Languages:
