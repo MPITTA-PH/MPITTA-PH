@@ -1,6 +1,6 @@
-<p align="center">
-  <b><span style="font-size: 72px;"># Hello🙋🏽‍♂️</span></b>
-</p>
+<h1 align="center">
+  <b>Texto em Negrito e Grande</b>
+</h1>
 
 😄 my name is Miguel!
 
