@@ -1,7 +1,9 @@
-# **Texto em Negrito e Grande**
+<p align="center">
+  # **Hello 🙋🏽**
+</p>
 
 
-🙋🏽 my name is Miguel!
+😄 my name is Miguel!
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏽 I'm a young software engineering student at 42Porto in Portugal.
