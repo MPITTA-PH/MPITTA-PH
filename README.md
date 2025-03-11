@@ -9,12 +9,12 @@
 
 More about me here ⬇️
 ### 🧑‍💻 More about me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mpitta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mpitta_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
